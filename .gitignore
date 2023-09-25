@@ -1,7 +1,7 @@
 .dub
 docs.json
 __dummy.html
-docs/
+
 /uim-video
 uim-video.so
 uim-video.dylib
